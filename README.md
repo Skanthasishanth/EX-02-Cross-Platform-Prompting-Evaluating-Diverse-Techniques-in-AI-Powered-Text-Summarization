@@ -220,7 +220,7 @@ Think of blockchain as a special kind of digital notebook that’s shared among 
 
 ## RESULT: 
 
-Thus Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is executed successfully
+Thus Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization is executed successfully.
 
 
 
