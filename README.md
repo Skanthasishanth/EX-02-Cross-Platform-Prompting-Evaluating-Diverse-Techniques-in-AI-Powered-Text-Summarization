@@ -19,10 +19,14 @@ Your goal is to determine which combination of prompting technique + platform pr
 Select or write a 500-word article titled “The Basics of Blockchain Technology.” 
 ### Standardize the text input across all platforms. 
 ### Define Prompting Techniques 
-### Zero-Shot Prompting: “Summarize the following article.” 
-### Few-Shot Prompting: Provide 2–3 example summaries and then ask for a summary. 
-### Chain-of-Thought Prompting: Instruct the AI to think step-by-step before summarizing. 
-### Role-Based Prompting: Ask the AI to act as a "professional content curator for students" while summarizing. 
+### Zero-Shot Prompting: 
+“Summarize the following article.” 
+### Few-Shot Prompting: 
+Provide 2–3 example summaries and then ask for a summary. 
+### Chain-of-Thought Prompting: 
+Instruct the AI to think step-by-step before summarizing. 
+### Role-Based Prompting: 
+Ask the AI to act as a "professional content curator for students" while summarizing. 
 
 ## Platforms Evaluated:
 ### ChatGPT 
